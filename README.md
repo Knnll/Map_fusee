@@ -33,3 +33,4 @@ Notice that we now have **two folders** in our CSS:
 - `pages` to code the layouts of the different pages on our website.
 
 As usual, `style.css` is importing all the other stylesheets and is then linked in the HTML.
+# Map_fusee
